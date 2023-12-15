@@ -1,0 +1,21 @@
+export const weatherIcons: any = {
+  "01d": require("../assets/icons/sun.png"),
+  "02d": require("../assets/icons/clouds.png"),
+  "03d": require("../assets/icons/sun-clouds.png"),
+  "04d": require("../assets/icons/sun-clouds-rain.png"),
+  "09d": require("../assets/icons/sun-clouds-rain.png"),
+  '10d': require("../assets/icons/sun-clouds-rain.png"),
+  '11d': require("../assets/icons/lightning.png"),
+  '13d': require("../assets/icons/clouds-snow.png"),
+  '50d': require("../assets/icons/clouds.png"),
+
+  "01n": require("../assets/icons/sun.png"),
+  "02n": require("../assets/icons/clouds.png"),
+  "03n": require("../assets/icons/sun-clouds.png"),
+  "04n": require("../assets/icons/sun-clouds-rain.png"),
+  "09n": require("../assets/icons/sun-clouds-rain.png"),
+  '10n': require("../assets/icons/sun-clouds-rain.png"),
+  '11n': require("../assets/icons/lightning.png"),
+  '13n': require("../assets/icons/clouds-snow.png"),
+  '50n': require("../assets/icons/clouds.png"),
+}
